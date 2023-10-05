@@ -1,6 +1,6 @@
 import { Container } from './App.styled';
-import ImageGallery from './ImageGallery/ImageGallery';
-import { Searchbar } from './Searchbar/Searchbar';
+import ImageGallery from '../components/ImageGallery/ImageGallery';
+import { Searchbar } from '../components/Searchbar/Searchbar';
 import { Component } from 'react';
 
 export class App extends Component {
